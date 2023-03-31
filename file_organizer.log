@@ -1,0 +1,75 @@
+2023-03-31 20:24:42,442 - INFO - Organized 0 files in 0.00 seconds.
+2023-03-31 20:25:12,617 - ERROR - Error while organizing Bewerbung.docx: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,617 - ERROR - Error while organizing Bewerbung.docx: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,617 - ERROR - Error while organizing Lebenslauf_word.docx: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,617 - ERROR - Error while organizing Lebenslauf_word.docx: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,617 - ERROR - Error while organizing Personalausweis.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,617 - ERROR - Error while organizing Personalausweis.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Personalausweis_Rückseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Personalausweis_Rückseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Personalausweis_Vorderseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Personalausweis_Vorderseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis BIB.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis BIB.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis Fachhochschulreife.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis Fachhochschulreife.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis_2122_1_000002.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis_2122_1_000002.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis_2122_2_000003.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zeugnis_2122_2_000003.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zweitspielantrag_08102022.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - ERROR - Error while organizing Zweitspielantrag_08102022.pdf: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:12,618 - INFO - Organized 0 files in 0.00 seconds.
+2023-03-31 20:25:12,618 - INFO - Organized 0 files in 0.00 seconds.
+2023-03-31 20:25:37,330 - INFO - Moved Bewerbung.docx to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,330 - INFO - Moved Bewerbung.docx to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,330 - INFO - Moved Bewerbung.docx to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,330 - INFO - Moved Lebenslauf_word.docx to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,330 - INFO - Moved Lebenslauf_word.docx to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,330 - INFO - Moved Lebenslauf_word.docx to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,331 - INFO - Moved Personalausweis.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,331 - INFO - Moved Personalausweis.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,331 - INFO - Moved Personalausweis.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Personalausweis_Rückseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Personalausweis_Rückseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Personalausweis_Rückseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Personalausweis_Vorderseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Personalausweis_Vorderseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Personalausweis_Vorderseite_1.jpg: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Zeugnis BIB.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Zeugnis BIB.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Zeugnis BIB.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Zeugnis Fachhochschulreife.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Zeugnis Fachhochschulreife.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,332 - ERROR - Error while organizing Zeugnis Fachhochschulreife.JPG: [WinError 3] Das System kann den angegebenen Pfad nicht finden: ''
+2023-03-31 20:25:37,333 - INFO - Moved Zeugnis_2122_1_000002.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,333 - INFO - Moved Zeugnis_2122_1_000002.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,333 - INFO - Moved Zeugnis_2122_1_000002.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,333 - INFO - Moved Zeugnis_2122_2_000003.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,333 - INFO - Moved Zeugnis_2122_2_000003.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,333 - INFO - Moved Zeugnis_2122_2_000003.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,334 - INFO - Moved Zweitspielantrag_08102022.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,334 - INFO - Moved Zweitspielantrag_08102022.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,334 - INFO - Moved Zweitspielantrag_08102022.pdf to C:/Users/Administrator/Desktop/Bildung/Bewerbungen.
+2023-03-31 20:25:37,334 - INFO - Organized 6 files in 0.00 seconds.
+2023-03-31 20:25:37,334 - INFO - Organized 6 files in 0.00 seconds.
+2023-03-31 20:25:37,334 - INFO - Organized 6 files in 0.00 seconds.
+2023-03-31 21:14:55,357 - INFO - Moved Bewerbung.docx to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,357 - INFO - Moved Lebenslauf_word.docx to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,358 - INFO - Moved Personalausweis.pdf to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,359 - INFO - Moved Personalausweis_Rückseite_1.jpg to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,360 - INFO - Moved Personalausweis_Vorderseite_1.jpg to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,361 - INFO - Moved Zeugnis BIB.JPG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,362 - INFO - Moved Zeugnis Fachhochschulreife.JPG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,363 - INFO - Moved Zeugnis_2122_1_000002.pdf to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,363 - INFO - Moved Zeugnis_2122_2_000003.pdf to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,364 - INFO - Moved Zweitspielantrag_08102022.pdf to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,365 - INFO - Moved IRD file website.txt to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,366 - INFO - Moved test_patcher.csproj.FileListAbsolute.txt to C:/Users/Administrator/Documents/Bewerbung.
+2023-03-31 21:14:55,367 - INFO - Moved ICON0.PNG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,368 - INFO - Moved PIC0.PNG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,368 - INFO - Moved PIC1.PNG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,369 - INFO - Moved PIC2.PNG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,370 - INFO - Moved OVERLAY0.PNG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,370 - INFO - Moved OVERLAY2.PNG to C:/Users/Administrator/Pictures/Bilder Bewerbung.
+2023-03-31 21:14:55,371 - INFO - Organized 18 files in 0.01 seconds.
